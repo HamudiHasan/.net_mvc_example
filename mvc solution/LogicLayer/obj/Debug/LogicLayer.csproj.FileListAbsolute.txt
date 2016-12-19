@@ -1,0 +1,5 @@
+c:\users\hhson\documents\visual studio 2015\Projects\WebApplication2\LogicLayer\obj\Debug\LogicLayer.csprojResolveAssemblyReference.cache
+c:\users\hhson\documents\visual studio 2015\Projects\WebApplication2\LogicLayer\bin\Debug\LogicLayer.dll
+c:\users\hhson\documents\visual studio 2015\Projects\WebApplication2\LogicLayer\bin\Debug\LogicLayer.pdb
+c:\users\hhson\documents\visual studio 2015\Projects\WebApplication2\LogicLayer\obj\Debug\LogicLayer.dll
+c:\users\hhson\documents\visual studio 2015\Projects\WebApplication2\LogicLayer\obj\Debug\LogicLayer.pdb
